@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://glowing-terms.sexywest</id>
+    <title>小天才阿废</title>
+    <updated>2020-07-16T01:37:50.626Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://glowing-terms.sexywest"/>
+    <link rel="self" href="https://glowing-terms.sexywest/atom.xml"/>
+    <subtitle>感谢每一位愿意看的宝贝们❤❤❤</subtitle>
+    <logo>https://glowing-terms.sexywest/images/avatar.png</logo>
+    <icon>https://glowing-terms.sexywest/favicon.ico</icon>
+    <rights>All rights reserved 2020, 小天才阿废</rights>
+</feed>
